@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/calebtebbe/src/coinbase/tmp'
+let g:netrw_dirhist_2='/Users/calebtebbe/src/luigi-pipelines/tables'
+let g:netrw_dirhist_3='/Users/calebtebbe/src/coinbase/tmp'
